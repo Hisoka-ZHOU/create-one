@@ -1,1 +1,2 @@
 i want have a test
+public class HelloWorld
